@@ -1,2 +1,2 @@
-\# Aulas de Banco de Dados (SQL) e Atividades
+# Aulas e Atividades de Banco de Dados (SQL)
 
